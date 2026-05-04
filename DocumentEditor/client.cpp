@@ -1,7 +1,5 @@
 #include "DocumentEditor.h"
 
-
-
 int main(){
     Document* doc = new Document();
     Persistence* db = new FileStorage();
